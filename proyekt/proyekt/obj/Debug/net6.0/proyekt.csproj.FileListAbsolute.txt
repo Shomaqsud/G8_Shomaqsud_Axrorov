@@ -1,0 +1,5 @@
+D:\ProyektPgAdmin\proyekt\proyekt\obj\Debug\net6.0\proyekt.csproj.AssemblyReference.cache
+D:\ProyektPgAdmin\proyekt\proyekt\obj\Debug\net6.0\proyekt.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProyektPgAdmin\proyekt\proyekt\obj\Debug\net6.0\proyekt.AssemblyInfoInputs.cache
+D:\ProyektPgAdmin\proyekt\proyekt\obj\Debug\net6.0\proyekt.AssemblyInfo.cs
+D:\ProyektPgAdmin\proyekt\proyekt\obj\Debug\net6.0\proyekt.csproj.CoreCompileInputs.cache
